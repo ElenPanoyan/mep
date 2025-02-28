@@ -1,6 +1,6 @@
-![Landing Page Preview](screenshot.png)
-
-
+![Landing Page Preview](screenshot1.png)
+![Landing Page Preview](screenshot2.png)
+![Landing Page Preview](screenshot3.png)
 # Project Setup
 
 ## Installation & Setup
