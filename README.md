@@ -1,3 +1,6 @@
+![Landing Page Preview](screenshot.png)
+
+
 # Project Setup
 
 ## Installation & Setup
